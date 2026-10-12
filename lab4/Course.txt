@@ -1,0 +1,2 @@
+MAT1.001,Calculus,4
+MAT1.002,Linear Algebra,4
